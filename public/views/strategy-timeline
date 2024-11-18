@@ -1,0 +1,756 @@
+<!doctype html>
+<!--[if lt IE 6 ]> <html lang='en' id = 'winchesterstudents-default' class="no-js ie6 page-content-html"> <![endif]-->
+<!--[if IE 7 ]>    <html lang='en' id = 'winchesterstudents-default' class="no-js ie7 page-content-html"> <![endif]-->
+<!--[if IE 8 ]>    <html lang='en' id = 'winchesterstudents-default' class="no-js ie8 page-content-html"> <![endif]-->
+<!--[if IE 9 ]>    <html lang='en' id = 'winchesterstudents-default' class="no-js ie9 page-content-html"> <![endif]-->
+<!--[if !(IE)]><!--> <html lang='en' id = 'winchesterstudents-default' class="no-js page-content-html "> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />
+
+<title> Student Led, Student Delivered, Students Empowered @ Winchester Student Union</title>
+<script type="text/javascript" src="https://www.altabold1.com/js/48587.js" ></script> 
+<noscript><img src="https://www.altabold1.com/48587.png" style="display:none;" /></noscript>
+<meta name="apple-itunes-app" content="appbat-id=1419960536, affiliate-data=myAffiliateData, app-argument=https://www.totum.com/" class="next-head">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,400;1,200&display=swap" rel="stylesheet">
+
+	<!-- Open Graph tags from layout/header -->
+	<meta property="og:title"  content="Student Led, Student Delivered, Students Empowered @ Winchester Student Union" />
+	<meta property="og:image"  content="" />
+	<meta property="og:image:secure_url" content="" />
+	<meta property="og:image:width" content="400" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:description" content="Content"/>
+	<meta property="og:url" content="https://www.winchesterstudents.co.uk/strategy-draft" />
+	<meta property="og:type" content="website" />
+	<meta property="fb:app_id" content="843813249049409" />
+
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale = 1.0" />
+
+<link rel="icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/30/original/data." />
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/30/original/data." />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/29/original/data." sizes="57x57" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/29/original/data." sizes="114x114" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/28/original/data." sizes="72x72" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://assets.prod.unioncloud-internal.com/union_logo/images/28/original/data." sizes="144x144" /> 
+  
+
+<!--Styles--> 
+<link rel="stylesheet" href="../public/css/styles.css"/>
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/application_student_view-c7a2dd41b04bd923530659f295bd646e8ebf9f402dde70f18073a0bcc1fd6bce.css" />
+<!-- <link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/advance-cms-c4f768369ef72ca634e273dafb07fb266f76fce6c4a0e55a364de858c5d3a346.css" /> -->
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/winsu_default/stylesheets/style-db202a79b9807c52d39621656d59c3d4bc3141ac33efb7b121df6d6763450a4f.css" />
+<link rel="stylesheet" media="screen" href="//assets.prod.unioncloud-internal.com/global_assets/stylesheets/winchesterstudents/winchesterstudents.css?v1=20241118183934" type="text/css" />
+<!-- <link rel="stylesheet" media="print" href="https://assets.unioncloud.org/assets/print-56319d8e517d5b2d6ce5403a19c7f9aa99091592b5834e55208bfe496e2498e4.css" /> -->
+<!-- <link rel="stylesheet" media="print" href="https://assets.unioncloud.org/assets/print-user-1665f940ffe8630711ec4cc24b419bd058924972acf78f60762dc3f302315044.css" /> -->
+
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9Frl0SZnME3HQF9+uxTSzmojETvEAzSkv2eO1jRGYMzI8YSL46ZzekpelKV9MuK9CuTiY8XSLWeymikUF/rVZg==" />
+<script LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+	function changeFontSize(id, size) {
+		document.getElementById(id).style.fontSize = size + "px";
+		document.cookie="nusfontcookie="+size+";path=/";
+	}
+	function getCookie(c_name){
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+			x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x=x.replace(/^\s+|\s+$/g,"");
+			if (x==c_name)
+			{
+				return unescape(y);
+			}
+		}
+	}
+	function setDefaultFontSize(){
+		var fontSize = getCookie("nusfontcookie");
+		if (fontSize>0)
+		{
+			document.getElementById("nusfont").style.fontSize = fontSize + "px";
+		}
+	}
+</SCRIPT>
+<script src="https://assets.unioncloud.org/assets/core-5879ce87a6ea3590557858aa9f2f2e0796adae83b151f58f5debcff4be777445.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38435526-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-38435526-1');
+</script>
+
+		
+	</head>
+	<body id = 'uc-page-id-strategy' class = 'uc-page-class-student-led-student-delivered-students-empowered  module_site action_show_page' onload="setDefaultFontSize()">
+		<div class="uc-overlay"><p>Please wait while processing...</p></div>
+
+	    <div id="wyswyg" data-value ='1'> </div>
+		<noscript>Your browser does not support JavaScript!</noscript>
+    <div class="wrapper">
+			<div class="row header">
+	<div class="header-wrap">
+      <div id="union-logo">
+        <h1>
+          <a title="Winchester Student Union" href="http://www.winchesterstudents.co.uk">
+            <img alt="logo for Winchester Student Union" src="https://assets.prod.unioncloud-internal.com/union_logo/images/26/original/winchester_apostrophe_logo_A4_for_website.png" />
+          </a>
+        </h1>
+      </div>
+			<div class="cart-account">
+		  <div class="reciteme" style="cursor: pointer"><span>Accessibility Tools</span></div>
+
+			<div class="shopping-cart-menu">
+				<a aria-label="0 Item in your cart" href="/cart"><strong class="item-count">0</strong></a>
+			</div>
+		<div class="profile-setting" role="application" aria-roledescription="profile">
+			<div class="profile-name-wrapper" id="user-profile-details"
+				data-user = '{ "id": "23597865",
+				"name": "Ryan Beck",
+				"email": "ryan.beck@winchester.ac.uk",
+				"profile_picture": "https://assets.prod.unioncloud-internal.com/user_image/user_avatars/195202/original/ryan_beck_23597865.jpg",
+				"app_id": "vy7jJM5k",
+				"signature": "d55d6c83499262fcbd99b4b25e929a2ac7cb6f9b13915967a0f96a7709af5eea",
+				"university-id": "",
+				"librarycard": "",
+				"hall-of-residence": "",
+				"programme-of-study": "[]",
+				"additional_identities": {}
+		    }'>
+				<a href="javascript:void(0);" class="profile-name collapsed" title="Ryan Beck" >
+					<span class="salutation">Hello,</span>
+					<span class="user-name" >Ryan Beck </span>
+				</a>
+			</div>
+			<div class="profile-drop-down-menu">
+				<ul>
+					<li class="dashboard-icon">
+							<a title="Dashboard" href="/administrator/dashboard">Dashboard</a>
+					</li>
+					<li class="account-icon">
+							<a title="Account/Profile" href="/user_groups/my_subscriptions">Account/Profile</a>
+					</li>
+					<li class="logout-icon">
+								<a href="/users/sign_out">Logout</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+
+	<!-- <script>
+		$(function() {
+			$.ajax({
+          url: "",
+          method: 'GET'
+        })
+		});
+	</script> -->
+
+			<div class="search page-search">
+				<div class="uc-sheff-mob-src src-hidden">
+				 <form action="/pages/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+				<div class="search-box">
+					<div class="search-box-wrapper">
+						<input type="text" name="site_search" id="site_search_id" class="search-input floatLeft" title="Search" autocomplete="off" />
+						<input type="submit" value="Search Pages" class="search-button" data-disable-with="Please Wait..." />
+	          <div class = "clear"></div>
+					</div>
+				</div>
+</form>				</div>
+				<a href="javascript:void(0);" class="uc-mob-src-icon">Click to Search</a>
+				<a href="javascript:void(0);" class="uc-mob-src-close-icon">Click to Search</a>
+				<div class="clear"></div>
+			</div>
+     
+	<div class = "clear"></div>
+	</div>
+</div>
+<input type="hidden" name="parent_link_name" id="parent_link_name" />
+
+<div id="student_view_notice">
+  
+</div>
+
+
+					<div class="uc-leaderboard-advertisement">
+			<div class="top-ad"  >
+				<div>
+						<!-- Winchester Leaderboard [async] --><script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script><script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc170663 = window.plc170663 || 0;
+document.write('<div id="placement_170663_'+plc170663+'"></div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(165652, 170663, [728,90], 'placement_170663_'+opt.place, opt); }, opt: { place: plc170663++, keywords: abkw, domain: 'servedbyadbutler.com' }});
+</script>
+				</div>
+			</div>
+		</div>
+
+					<div class="row top-union">
+						<div class="top-union-wrap">
+							  <div id="top-sub-navigation"
+  class="section list sub-nav">
+    <div id="top-sub-navigation-wrap" class="list-wrap">
+              				  <div class="uc-page-wrap" >
+    <div class="edit-mode-page">
+  <div class="top-social">
+<div class="mmu-name"><span style="color:null;"><span style="font-size:22px;">Student Led,&nbsp;Student Delivered. <strong>Students Empowered</strong>.</span></span></div>
+
+<div class="mmu-search-icon floatRight">&nbsp;</div>
+
+<div class="mmu-socialMedia floatRight">
+<!-- <ul>
+	<li class="Facebook"><a href="https://www.facebook.com/Winchesterstudentunion/"><svg alt="facebook" height="37" style="fill: rgba(255, 255, 255, 1);transform: ;msFilter:;" viewbox="0 0 24 24" width="37" xmlns="http://www.w3.org/2000/svg"><path d="M12.001 2.002c-5.522 0-9.999 4.477-9.999 9.999 0 4.99 3.656 9.126 8.437 9.879v-6.988h-2.54v-2.891h2.54V9.798c0-2.508 1.493-3.891 3.776-3.891 1.094 0 2.24.195 2.24.195v2.459h-1.264c-1.24 0-1.628.772-1.628 1.563v1.875h2.771l-.443 2.891h-2.328v6.988C18.344 21.129 22 16.992 22 12.001c0-5.522-4.477-9.999-9.999-9.999z"></path></svg> </a></li>
+	<li class="Twitter"><a href="https://twitter.com/winchestersu?lang=en"><svg alt="twitter" height="37" style="fill: rgba(255, 255,255, 1);transform: ;msFilter:;" viewbox="0 0 24 24" width="37" xmlns="http://www.w3.org/2000/svg"><path d="M19.633 7.997c.013.175.013.349.013.523 0 5.325-4.053 11.461-11.46 11.461-2.282 0-4.402-.661-6.186-1.809.324.037.636.05.973.05a8.07 8.07 0 0 0 5.001-1.721 4.036 4.036 0 0 1-3.767-2.793c.249.037.499.062.761.062.361 0 .724-.05 1.061-.137a4.027 4.027 0 0 1-3.23-3.953v-.05c.537.299 1.16.486 1.82.511a4.022 4.022 0 0 1-1.796-3.354c0-.748.199-1.434.548-2.032a11.457 11.457 0 0 0 8.306 4.215c-.062-.3-.1-.611-.1-.923a4.026 4.026 0 0 1 4.028-4.028c1.16 0 2.207.486 2.943 1.272a7.957 7.957 0 0 0 2.556-.973 4.02 4.02 0 0 1-1.771 2.22 8.073 8.073 0 0 0 2.319-.624 8.645 8.645 0 0 1-2.019 2.083z"></path></svg></a></li>
+	<li class="Instagram"><a href="http://www.instagram.com/winch_su"><svg height="37" style="fill: rgba(255, 255, 255, 1);transform: ;msFilter:;" viewbox="0 0 24 24" width="37" xmlns="http://www.w3.org/2000/svg"><path d="M20.947 8.305a6.53 6.53 0 0 0-.419-2.216 4.61 4.61 0 0 0-2.633-2.633 6.606 6.606 0 0 0-2.186-.42c-.962-.043-1.267-.055-3.709-.055s-2.755 0-3.71.055a6.606 6.606 0 0 0-2.185.42 4.607 4.607 0 0 0-2.633 2.633 6.554 6.554 0 0 0-.419 2.185c-.043.963-.056 1.268-.056 3.71s0 2.754.056 3.71c.015.748.156 1.486.419 2.187a4.61 4.61 0 0 0 2.634 2.632 6.584 6.584 0 0 0 2.185.45c.963.043 1.268.056 3.71.056s2.755 0 3.71-.056a6.59 6.59 0 0 0 2.186-.419 4.615 4.615 0 0 0 2.633-2.633c.263-.7.404-1.438.419-2.187.043-.962.056-1.267.056-3.71-.002-2.442-.002-2.752-.058-3.709zm-8.953 8.297c-2.554 0-4.623-2.069-4.623-4.623s2.069-4.623 4.623-4.623a4.623 4.623 0 0 1 0 9.246zm4.807-8.339a1.077 1.077 0 0 1-1.078-1.078 1.077 1.077 0 1 1 2.155 0c0 .596-.482 1.078-1.077 1.078z"></path><circle cx="11.994" cy="11.979" r="3.003"></circle></svg> </a></li>
+	<li class="TikTok"><a href="https://www.tiktok.com/@winch_su/"><svg height="37" style="fill: rgba(255, 255, 255, 1);transform:;msFilter:;" viewbox="0 0 24 24" width="37" xmlns="http://www.w3.org/2000/svg"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"></path></svg></a></li>
+</ul> -->
+</div>
+</div>
+
+  <style type="text/css"></style>
+  <script type="text/javascript"></script>
+    </div>
+  </div>
+
+        <div class="clear"></div>
+
+    </div>
+  </div>
+  <div id="top-navigation"
+  class="section menu">
+    <div id="top-navigation-wrap" class="menu-wrap">
+        <a href="javascript:void(0)" class="phone-menu">
+    Menu
+    <span class="phone-menu-icon"></span>
+  </a>
+  <div class="nav-wrap">
+    <ul>
+          <li id="your-union-menu-wrapper" class="has-child inactive first-menu">
+              <div class="top-menu-name-wrapper">
+                  <a href="/yourvoice" id="top-nav-level-one-your-union" class="top-nav-level-one-your-union" >
+                 Your Union</a>
+                <div class="clear"></div>
+              </div>
+            <div class="top-submenu-wrapper">
+              <ul>
+
+                    <li class="children">
+    	                    <a href="/top-navigation/information-pages/about" >
+    	                Who are we</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/your-voice/student-officers" >
+    	                Your Elected Officers</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/strategy" >
+    	                Our Strategy</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/your-voice/campaigns" >
+    	                Campaigns</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/your-voice/independent-living" >
+    	                Independent Living</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/onewinchester" >
+    	                One Winchester</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/costoflivinghub" >
+    	                Cost of Living</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/stars" >
+    	                STARS (Student Academic Reps)</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/governance" >
+    	                Governance</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/suelections" >
+    	                Student Union Elections</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/your-voice/celebrating-success" >
+    	                Celebrating Success</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/studentguides" >
+    	                Student Guides</a>
+                    </li>
+              </ul>
+              <div class="clear"></div>
+            </div>
+          </li>
+          <li id="talk-to-us-menu-wrapper" class="has-child inactive">
+              <div class="top-menu-name-wrapper">
+                  <a href="/advice" id="top-nav-level-one-talk-to-us" class="top-nav-level-one-talk-to-us" >
+                 Talk to Us</a>
+                <div class="clear"></div>
+              </div>
+            <div class="top-submenu-wrapper">
+              <ul>
+
+                    <li class="children">
+    	                      <a href="https://www.winchesterstudents.co.uk/advice" >
+    	                Advice Centre</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/report" >
+    	                Report &amp; Support</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/complaint" >
+    	                Complaints</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/top-navigation/information-pages/contact" >
+    	                Contact Us</a>
+                    </li>
+                    <li class="children">
+    	                      <a href="https://www.sunetwork.co.uk/" >
+    	                Advertise With Us</a>
+                    </li>
+              </ul>
+              <div class="clear"></div>
+            </div>
+          </li>
+          <li id="take-part-menu-wrapper" class="has-child inactive">
+              <div class="top-menu-name-wrapper">
+                  <a href="/activitygroups" id="top-nav-level-one-take-part" class="top-nav-level-one-take-part" >
+                 Take Part</a>
+                <div class="clear"></div>
+              </div>
+            <div class="top-submenu-wrapper">
+              <ul>
+
+                    <li class="children">
+    	                    <a href="/activitygroups" >
+    	                Activity Groups</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/bucsresources" >
+    	                BUCS</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/participationfund" >
+    	                Activities Participation Fund</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/residents" >
+    	                Your Community</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/sustainability" >
+    	                Sustainability</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/take-part-get-involved/raising-giving-rag" >
+    	                Raising &amp; Giving</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/top-navigation/take-part/employment-jobs" >
+    	                Work for us</a>
+                    </li>
+              </ul>
+              <div class="clear"></div>
+            </div>
+          </li>
+          <li id="venues-shops-menu-wrapper" class="has-child inactive last-menu">
+              <div class="top-menu-name-wrapper">
+                  <a href="/top-navigation/services" id="top-nav-level-one-venues-shops" class="top-nav-level-one-venues-shops" >
+                 Venues &amp; Shops</a>
+                <div class="clear"></div>
+              </div>
+            <div class="top-submenu-wrapper">
+              <ul>
+
+                    <li class="children">
+    	                    <a href="/top-navigation/services/venue" >
+    	                Your Spaces</a>
+                    </li>
+                    <li class="children">
+    	                      <a href="https://events.winchesterstudents.co.uk/" >
+    	                Events</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/top-navigation/services/shops" >
+    	                Your Shop</a>
+                    </li>
+                    <li class="children">
+    	                    <a href="/eshop" >
+    	                Buy Merch</a>
+                    </li>
+              </ul>
+              <div class="clear"></div>
+            </div>
+          </li>
+    </ul>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+
+    </div>
+  </div>
+
+							<div class="clear"></div>
+						</div>
+					</div>
+
+
+			<div class="row content">
+			
+			    <!-- US1027 - Added new preview tabs page - start -->
+<div class="row">
+
+
+  <div class="content-wrap home-content-wrap subsites  last">
+  	<div>
+  		<div class="">
+  				<div class="edit-mode-page">
+  <div class="uc-tool-wrapper">
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="inside-border-padding">
+    <h1>Student Led, Student Delivered, Students Empowered</h1>
+  <div class="section default-body">
+      <p>VERY TOP LEVEL CONTENT OMG INTRODUCE THE STRATEGY</p>
+
+      <style type="text/css"></style>
+  	  <script type="text/javascript"></script>
+  </div>
+  <div class="clear"></div>
+</div>
+
+
+        			  <div id="our-goals"
+  class="section list">
+      <h2>Our Goals</h2>
+    <div id="our-goals-wrap" class="list-wrap">
+              <div class="clear"></div>
+              <p>HERE IS WHERE THE GOALS GO</p>
+    </div>
+  </div>
+
+        			  <div id="measures-success"
+  class="section list">
+      <h2>Measures Success</h2>
+    <div id="measures-success-wrap" class="list-wrap">
+              <div class="clear"></div>
+              <P>HERE IS HOW WE MEASURE SUCCESS</P>
+    </div>
+  </div>
+  
+  <div id="priorities-timeline" class="section timeline">
+    <h2>Our Priorities</h2>
+        <!-- Strategy Priorities -->
+        <div class="timeline">
+            <div class="container left">
+              <div class="content">
+                <h2>Communities</h2>
+                <p>Building strong communities for our diverse student body to belong; championing equality</p>
+              </div>
+            </div>
+            <div class="container right">
+              <div class="content">
+                <h2>Life Skills</h2>
+                <p>Combating loneliness and building citizenship and life skills through a framework of peer-to-peer support.</p>
+              </div>
+            </div>
+            <div class="container left">
+              <div class="content">
+                <h2>Empowerment</h2>
+                <p>Empowering our student leaders and volunteers, through suitable skills development, and
+                  reward & recognition, to have the best experience in their role.</p>
+              </div>
+            </div>
+            <div class="container right">
+              <div class="content">
+                <h2>Presence</h2>
+                <p>Developing our physical and online presence including website and social media channels; be accessible, be where students are.</p>    
+              </div>
+            </div>
+            <div class="container left">
+              <div class="content">
+                <h2>Student Voice</h2>
+                <p>Representing our members - ensuring authentic student voice is sought, heard and actioned at all levels within both the Students' Union and University</p>    
+              </div>
+            </div>
+            <div class="container right">
+              <div class="content">
+                <h2>Access</h2>
+                <p>Ensuring our members
+                  understand what we do and how to access our opportunities,
+                  services and support</p>    
+              </div>
+            </div>
+            <div class="container left">
+              <div class="content">
+                <h2>Feedback</h2>
+                <p>Seeking and providing great feedback to members on all aspects of our work.</p>    
+              </div>
+            </div>
+            <div class="container right">
+              <div class="content">
+                <h2>Research</h2>
+                <p>Ensuring the Students' Union is focused on student priorities through effective insight-gathering and campaigns.</p>    
+              </div>
+            </div>
+            <div class="container left">
+              <div class="content">
+                <h2>Not For Profit</h2>
+                <p>Ensuring our members understand that spend in our commercial activity supports the whole Students' Union (as a not-for-profit organisation)</p>    
+              </div>
+            </div>
+            <div class="container right">
+              <div class="content">
+                <h2>Collaboration</h2>
+                <p>Improving collaboration and partnerships with the University to achieve the best experience for students.</p>    
+              </div>
+            </div>
+          </div>
+          <div class="uc-page-wrap" >
+            <div class="edit-mode-page">
+                <span class="page-title">feedback</span>
+                <p><meta charset="UTF-8" /></p>
+                <p>Seeking and providing great feedback to members on all aspects of our work​.</p>
+
+  <style type="text/css"></style>
+  <script type="text/javascript"></script>
+    </div>
+  </div>
+
+        				</li>
+        				<li>
+        							  <div class="uc-page-wrap" >
+    <div class="edit-mode-page">
+    <span class="page-title">research</span>
+  <p>Ensuring the Students’&nbsp;Union is focused on&nbsp;student priorities&nbsp;through effective insight gathering and campaigns​.</p>
+
+
+  <style type="text/css"></style>
+  <script type="text/javascript"></script>
+    </div>
+  </div>
+
+  		</div>
+  	</div>
+  	<div class="clear"></div>
+  	<div class="site-addthis"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+
+
+
+			<div class="clear"></div>
+			</div>
+
+
+
+          <div class="row bottom-union">
+            <div class="bottom-union-wrap">
+                <div id="website-final-footer"
+  class="section list">
+    <div id="website-final-footer-wrap" class="list-wrap">
+              				  <div class="uc-page-wrap" >
+    <div class="edit-mode-page">
+  <ul>
+	<li><a href="http://sunetwork.co.uk"><span style="color:#ffffff;">Advertise with us</span></a></li>
+	<li><a href="http://www.winchesterstudents.co.uk/top-navigation/what-s-on"><span style="color:#ffffff;">Book tickets</span></a></li>
+	<li><a href="https://winchesterstudentunion.typeform.com/to/MZP6RwXX"><span style="color:#ffffff;">Hire our venue</span></a></li>
+	<li><a href="https://www.winchesterstudents.co.uk/eshop"><span style="color:#ffffff;">Buy Merch</span></a></li>
+	<li><a href="http://www.winchesterstudents.co.uk/top-navigation/take-part/employment-jobs"><span style="color:#ffffff;">Work for us</span></a></li>
+	<li><a href="http://www.winchesterstudents.co.uk/top-navigation/advice-centre"><span style="color:#ffffff;">Advice/Support</span></a></li>
+	<li><a href="http://www.winchesterstudents.co.uk/top-navigation/contact-us"><span style="color:#ffffff;">Contact Us</span></a></li>
+</ul>
+
+  <style type="text/css"></style>
+  <script type="text/javascript"></script>
+    </div>
+  </div>
+
+        <div class="clear"></div>
+
+    </div>
+  </div>
+
+              <div class="clear"></div>
+            </div>
+          </div>
+		</div>
+		<div class="uc-poweredby-nusdigital-logo">
+	<div class="uc-poweredby-nusdigital-logo-wrapper">
+    <span class="uc-terms-of-service">
+      <a href="https://assets.prod.unioncloud-internal.com/UNION+CLOUD+-+TERMS+OF+SERVICE+-+15092021.docx" target="_blank"> Terms of Service </a>
+    </span>
+		<span class="floatRight">
+			<a href="https://www.onevoicedigital.com" target="_blank">
+				<img alt="Powered by OneVoice Digital" src="https://assets.unioncloud.org/assets/admin_default/onevoice_logo-81b54f66eb35ddbf3d97d030b185aa5ecfb1ea9d7f7a0f4c42be0ddaf21bbd95.png" />
+			</a>
+		</span>
+		<div class="clear"></div>
+	</div>
+</div>
+
+
+		<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/chosen.min-dd530a8c59a071f3d33ed566d08089bcac0e1ec4c657fa98683304cc4c60230c.css" />
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/codemirror/codemirror-c6aad92700844e9f9f2171485302a073c7d459db21cbf97f67ecde14c97ab0eb.css" />
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/codemirror/show-hint-4c841a4e1b806c851282e7fbe2ca64db355fc24e7e7485f9ce02474afc5565c4.css" />
+<link rel="stylesheet" media="screen" href="https://assets.unioncloud.org/assets/the_sortable_tree_cms-8dcfd420a035f3917d935052ba4f846979bdd27e74aaff3794bfd61a4895b754.css" />
+
+
+
+		<div class="jqmCMSWindow adv-cms-popup" id="dialog">
+	<a href="#" class="jqmClose">Close</a>
+	<div class="cms-forms">
+	</div>
+</div>
+
+		<input name="on_off_button" id="on_off_button" type="hidden" value=''>
+
+		<script src="https://assets.unioncloud.org/assets/application_student_view-6c2262f95ee77549950dd885766f26f8e86470a36c9fff6a4401288dafbf7603.js"></script>
+	<script src="https://assets.unioncloud.org/assets/codemirror/codemirror-683025eb562341dd2937665b35fed9e285564287a1de94b6ece16e31866a1c8e.js"></script>
+<script src="https://assets.unioncloud.org/assets/codemirror/css-feb684882010ea6b2090ed0d7d9e1eef7ab211069320d019d3be51be557bfdda.js"></script>
+<script src="https://assets.unioncloud.org/assets/codemirror/show-hint-159746575ad5197c9ff6b9be2d46b72cc4c7bc669ffd73c03de43127c627f9aa.js"></script>
+<script src="https://assets.unioncloud.org/assets/codemirror/javascript-hint-09e4adb2807f05feef7f304eba3b83ff6df0aab61260255ff980aa48015dc515.js"></script>
+<script src="https://assets.unioncloud.org/assets/chosen.jquery.min-0c43f368aba6ba56fffbf19447b8fa5ae3434913793085fe4b66348d9ec6b5d8.js"></script>
+<script src="https://assets.unioncloud.org/assets/image-picker.min-1f214e9698d0497c352d9917fbdc9a66c6617995da61b9bca807623aca21836a.js"></script>
+<script src="https://assets.unioncloud.org/assets/edit_cms-09d53908298de16c99ff52f253bc849f8685d3f91fbd06e1dfef08c3aa2692c9.js"></script>
+<script src="https://assets.unioncloud.org/assets/drag_and_drop_cms_elements-f307f004c56917a0b7bd75561c14192bb71476efb0e96330a461f307e6292e60.js"></script>
+<script src="https://assets.unioncloud.org/assets/jquery.ui.nestedSortable-697655cf06578c70318156630d5bdff3e68e3a2a6236acc1f9fe93314e891b86.js"></script>
+<script src="https://assets.unioncloud.org/assets/jquery.blockUI.localize-83d8035d22afbd8c287facf5fde3e0610024caf1dc75636a25e212009e4b4f03.js"></script>
+<script src="https://assets.unioncloud.org/assets/jquery-impromptu.localize-cb5b7fdd7a4db23d28811dcb99c21bfb60500a58eb6b44b277f832f2dd9b1c3f.js"></script>
+
+	<script src="https://assets.unioncloud.org/assets/winsu_default/javascripts/union-1e906b5fa8cab90b9aa83f19d69f21e6f0ef8394f1eb040f37362bfea80c4969.js"></script>
+	<script src="https://assets.unioncloud.org/assets/other_script-b02912cc72472ea0709fea4f4fa42211d1aad1f4a5787a38530b3554100a6701.js"></script>
+  <script src="https://assets.unioncloud.org/assets/reciteme-59af904dc8c4cadd278044baf2b78765e2b17a60c2ccabc83ddd4b11ba816d1a.js"></script>
+
+	<script src="//assets.prod.unioncloud-internal.com/global_assets/javascripts/winchesterstudents/winchesterstudents.js?v1=20241118183934"></script>
+<script type="text/javascript">
+  I18n.default_locale = "en";
+  I18n.locale = "en";
+</script>
+
+
+
+			<div class="uc-toolbar-position">
+	<div class="uc-toolbar-wrapper-before">
+
+		<div class="uc-toolbar-settings-icon uc-toolbar-settings" remote='true' data='on'></div>
+		<div class="uc-toolbar-settings-icon-cross uc-toolbar-settings" remote='true' data='off'></div>
+
+		<div class="uc-toolbar-wrapper">
+			<div class="toolbar-logo ">
+			</div>
+			<input type="hidden" name="show_draft_content_val" id="show_draft_content_val" />
+      <input type="hidden" name="union_show_breadcrumb_val" id="union_show_breadcrumb_val" value="false" />
+      
+      <input type="hidden" name="site_id" id="site_id" value="2077" />
+	    <form class="enable-form" action="/pages/enable_cms_to_edit" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="F3F8X6h1cNJ7vPM1MK4GJ6mRF9SelSz6BETWZc5q0Oor2h0FbbQz5faiOO72iDZUyVbkjJ9ENTkJuXGn7dZlQA==" />			<input type="hidden" name="edit_mode_button_val" id="edit_mode_button_val" />
+			<input type="hidden" name="toolbar_on_off" id="toolbar_on_off" />
+			<div class="edit-mode-wrapper">
+			<input type="hidden" name="wyswyg_page_path" id="wyswyg_page_path" value="/strategy-draft" />
+
+					<div class="uc-toolbar-heading">Edit mode</div>
+					<div class="edit-mode edit-mode-tooltip" title="Click &#39;On&#39; to edit CMS components. Click &#39;Off&#39; once you complete editing CMS components">
+						<div class="on-off-switch toolbar-switch">
+				   		<input type="checkbox" class="uc-edit-on-off onoffcheckbox" name="edit-on-off">
+				    	<label>
+			                <span class="on-off-switch-on"></span>
+			                <span class="on-off-switch-off"></span>
+		              		<div></div>
+		            	</label>
+				      	</div>
+				  	</div>
+					<div class="blue-text3">
+						Click "On" to edit CMS component
+					</div>
+
+</form>
+
+			 	 <div class="uc-toolbar-heading">Show draft content</div>
+						<div class="edit-mode edit-mode-tooltip" title="Click &#39;On&#39; to edit CMS components. Click &#39;Off&#39; once you complete editing CMS components">
+					    <form class="show-draft-content-form" action="/pages/show_draft_content" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wWuCiFWMQ3iO52yznWIecYhJZ0rNvz/zn2WOBnVEOLb9wOPSkE0ATwP5p2hbRC4C6I6UEsxuJjCSmCnEVviNHA==" />					         <input type="hidden" name="wyswyg_page_path_draft" id="wyswyg_page_path_draft" value="/strategy-draft" />
+						    <div class="on-off-switch toolbar-switch">
+						     	<input type="checkbox" class="on-draft onoffcheckbox" name="on_draft" id="on-draft">
+						     	<label>
+					                <span class="on-off-switch-on"></span>
+					                <span class="on-off-switch-off"></span>
+				                	<div></div>
+	              				</label>
+				        	</div>
+</form>						</div>
+						<div class="blue-text3">
+						  <span class="inline-hints2">Enable this to view your live and draft contents</span>
+						</div>
+
+					 <div class="uc-toolbar-heading">Site breadcrumb</div>
+					 <div class="edit-mode edit-mode-tooltip" title="Click &#39;On&#39; to edit CMS components. Click &#39;Off&#39; once you complete editing CMS components">
+					   <form class="show-breadcrumb-form" action="/pages/show_breadcrumb" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dpYMm7oCch56fiPQYeXIczI3sdXR5mbuQ5Rud8LNzTxKPW3Bf8MxKfdg6Aunw/gAUvBCjdA3fy1Oacm14XF4lg==" />					    	<input type="hidden" name="wyswyg_page_path_breadcrumb" id="wyswyg_page_path_breadcrumb" value="/strategy-draft" />
+					    	<div class="on-off-switch toolbar-switch">
+					       		<input type="checkbox" class="on-breadcrumb onoffcheckbox" name="on_breadcrumb" id="on-breadcrumb">
+					       		<label>
+		                			<span class="on-off-switch-on"></span>
+		                			<span class="on-off-switch-off"></span>
+	                				<div></div>
+	              				</label>
+			          		</div>
+</form>						</div>
+						<div class="blue-text2">
+	            			<span class="inline-hints2">Please enable this to display the section&#39;s breadcrumb.</span>
+	          			</div>
+
+			</div>
+
+			<div id="toolbar-accordian">
+			    <h2><a href="#">Components Toolbar</a></h2>
+			   	<div id="catalog" class="">
+				    <div>
+				    	<h3>Drag & Drop Components</h3>
+				    	<div class="blue-text">Select the following component and drop to the layout</div>
+				      <ul>
+				        <li id="Tab" data-display-as="Tab" class="draggable-tab">Tab Container</li>
+				        <li id="Stripe" data-display-as="Stripe" class="draggable-stripe">Stripe carousel</li>
+				        <li id="Slider" data-display-as="Slider" class="draggable-slider">Slider (Full width)</li>
+				        <li id="Grid" data-display-as="Grid" class="draggable-grid">Grid</li>
+				        <li id="Column"  data-display-as="Column" class="draggable-column">Column</li>
+				        <li id="List" data-display-as="List" class="draggable-list">List</li>
+				      </ul>
+				    </div>
+				</div>
+			</div>
+
+	</div>
+</div>
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110115914-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-110115914-1');
+</script>
+
+	</body>
+</html>

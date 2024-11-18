@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>Communities</h2>
+      <p>Building strong communities for our diverse student body to belong; championing equality</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+        <h2>Life Skills</h2>
+      <p>Combating loneliness and building citizenship and life skills through a framework of peer-to-peer support.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Empowerment</h2>
+      <p>Empowering our student leaders and volunteers, through suitable skills development, and
+        reward & recognition, to have the best experience in their role.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Presence</h2>
+      <p>Developing our physical and online presence including website and social media channels; be accessible, be where students are.</p>    
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Student Voice</h2>
+      <p>Representing our members - ensuring authentic student voice is sought, heard and actioned at all levels within both the Students' Union and University</p>    
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Access</h2>
+      <p>Ensuring our members
+        understand what we do and how to access our opportunities,
+        services and support</p>    
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Feedback</h2>
+      <p>Seeking and providing great feedback to members on all aspects of our work.</p>    
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Research</h2>
+      <p>Ensuring the Students' Union is focused on student priorities through effective insight-gathering and campaigns.</p>    
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Not For Profit</h2>
+      <p>Ensuring our members understand that spend in our commercial activity supports the whole Students' Union (as a not-for-profit organisation)</p>    
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Collaboration</h2>
+      <p>Improving collaboration and partnerships with the University to achieve the best experience for students.</p>    
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
