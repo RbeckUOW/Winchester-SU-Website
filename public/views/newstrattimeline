@@ -2,7 +2,11 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="../css/styles.css">
+<link rel="stylesheet" href="../css/timelinestyles.css">
+<link rel="stylesheet" href="../linkedStylesheets/advance-cms-c4f.css">
+<link rel="stylesheet" href="../linkedStylesheets/application_student_view.css">
+<link rel="stylesheet" href="../linkedStylesheets/winchesterstudents.css">
+<link rel="stylesheet" href="../linkedStylesheets/winsu_default_style-db202" type="text/css">
 </head>
 <body>
 
